@@ -38,10 +38,14 @@ npm install
 ## Configuration ⚙️
 1. Create `.env` file:
 ```ini
-TOKEN=your_telegram_bot_token
-MONGODB_URI=mongodb://localhost:27017/copybot
-SOLANA_RPC=https://api.mainnet-beta.solana.com
+SHYFT_API_KEY = ""
+SHYFT_RPC_URL = ""
+SHYFT_RPC_CONFIG_URL = ""
+JITO_RPC_URL = ""
+JUP_SWAP_URL = ""
+mongoURI = ""
 ```
+
 
 2. Database setup:
 ```bash
