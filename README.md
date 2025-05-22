@@ -84,3 +84,7 @@ THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
 Cryptocurrency trading involves substantial risk. Always conduct
 thorough testing with small amounts before live deployment.
 ```
+
+## Contact 📬
+For support, feature requests, or collaboration inquiries, contact us via Telegram:  
+**[@terter21002](https://t.me/terter21002)**
