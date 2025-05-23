@@ -88,3 +88,6 @@ thorough testing with small amounts before live deployment.
 ## Contact 📬
 For support, feature requests, or collaboration inquiries, contact us via Telegram:  
 **[@terter21002](https://t.me/terter21002)**
+
+## Tip 🍵
+If you are intereseted in my projects, please 🔗fork and give me ⭐star
